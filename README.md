@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @uttambhagaur
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning google cloud PCA
+- 💞️ I'm certified google professional cloud architect and Associate cloud Engineer. 
+- 🌱 I’m currently learning MicroServices with Spring Boot
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
